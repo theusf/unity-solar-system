@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 4e5995237eeb4e843a8ed1958e508c55
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Saturn
+    100002: Saturn Clouds
+    100004: Saturn Rings
+    100006: //RootNode
+    100008: Sphere Dione
+    100010: Sphere Enceladus
+    100012: Sphere Mimas
+    100014: Sphere Rhea
+    100016: Sphere Tethys
+    400000: Saturn
+    400002: Saturn Clouds
+    400004: Saturn Rings
+    400006: //RootNode
+    400008: Sphere Dione
+    400010: Sphere Enceladus
+    400012: Sphere Mimas
+    400014: Sphere Rhea
+    400016: Sphere Tethys
+    2100000: 'Material #63'
+    2100002: 'Material #50'
+    2100004: 'Material #62'
+    2100006: 'Material #64'
+    2300000: Saturn
+    2300002: Saturn Clouds
+    2300004: Saturn Rings
+    2300006: Sphere Dione
+    2300008: Sphere Enceladus
+    2300010: Sphere Mimas
+    2300012: Sphere Rhea
+    2300014: Sphere Tethys
+    3300000: Saturn
+    3300002: Saturn Clouds
+    3300004: Saturn Rings
+    3300006: Sphere Dione
+    3300008: Sphere Enceladus
+    3300010: Sphere Mimas
+    3300012: Sphere Rhea
+    3300014: Sphere Tethys
+    4300000: Saturn Rings
+    4300002: Saturn
+    4300004: Saturn Clouds
+    4300006: Sphere Mimas
+    4300008: Sphere Enceladus
+    4300010: Sphere Dione
+    4300012: Sphere Rhea
+    4300014: Sphere Tethys
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
