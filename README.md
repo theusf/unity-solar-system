@@ -1,3 +1,6 @@
 # SistemaSolar_ProjUnity
  Sistema solar desenvolvido em Unity
- ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Planets2013-unlabeled.jpg/360px-Planets2013-unlabeled.jpg)
+ 
+ ![alt text](https://github.com/theusf/SistemaSolar_ProjUnity/blob/master/pic1.png)
+ 
+ ![alt text](https://github.com/theusf/SistemaSolar_ProjUnity/blob/master/pic2.png)
